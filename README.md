@@ -17,5 +17,7 @@
 - Option to add own Code Challenges
 - Leaderboard
 - SSO??
+- Teachers can add challenges for their students (intern rankings etc)
+- 
 
 
